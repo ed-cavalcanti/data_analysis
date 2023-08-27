@@ -42,7 +42,7 @@ python -m venv venv
    
 No windows:
 ```
-venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 No Linux ou MacOS:
 ```
